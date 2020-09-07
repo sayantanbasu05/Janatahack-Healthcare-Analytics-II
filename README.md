@@ -10,3 +10,4 @@ Final rank : 10th on private leaderboard.
 
 
 In this problem we were asked to predict the duration of stay of patients in a hospital. The solution was a blend of LGBM and a simple Neural Network architecture. We performed feature engneering to extract meningful features for the LGBM model. Using the neural network probabilities as a feature for the LGBM model gave a big jump to the score. Although the competition was exciting the dataset didnot have interesting features that could actually capture the target variable distribution and hence none of the participants could cross 50% on the leaderboard.
+
