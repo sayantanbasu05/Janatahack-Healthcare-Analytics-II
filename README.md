@@ -19,4 +19,4 @@ In this problem, we were asked to predict the duration of stay of patients in a 
 
 # Solution Approach
 
-![](images/AVHealthcare2.png)
+![](images/AVHealthcare2.jpeg)
